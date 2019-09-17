@@ -6,14 +6,14 @@
 /*   By: akoropet <akoropet@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/02/17 20:17:24 by akoropet          #+#    #+#             */
-/*   Updated: 2019/03/08 16:58:07 by akoropet         ###   ########.fr       */
+/*   Updated: 2019/09/17 18:06:17 by akoropet         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #ifndef FILLER_H
 # define FILLER_H
 
-# include "./lib/libft/libft.h"
+# include "../lib/libft/libft.h"
 
 typedef struct	s_coord
 {

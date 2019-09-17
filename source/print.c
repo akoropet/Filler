@@ -6,11 +6,11 @@
 /*   By: akoropet <akoropet@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/03/06 21:34:19 by akoropet          #+#    #+#             */
-/*   Updated: 2019/03/08 14:41:09 by akoropet         ###   ########.fr       */
+/*   Updated: 2019/09/17 18:07:03 by akoropet         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "visualizator.h"
+#include "../include/visualizator.h"
 
 void	color(char sym)
 {

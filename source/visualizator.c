@@ -6,11 +6,11 @@
 /*   By: akoropet <akoropet@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/03/05 19:36:12 by akoropet          #+#    #+#             */
-/*   Updated: 2019/03/08 14:25:35 by akoropet         ###   ########.fr       */
+/*   Updated: 2019/09/17 18:39:30 by akoropet         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "visualizator.h"
+#include "../include/visualizator.h"
 
 void	players(char **player1, char **player2)
 {
